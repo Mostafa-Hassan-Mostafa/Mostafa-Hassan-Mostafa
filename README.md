@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. [Corona Marketing Project](https://github.com/Mostafa-Hassan-Mostafa/Corona-Marketing)
+### 1. [Corona Marketing Project](https://github.com/Mostafa-Hassan-Mostafa/corona-marketing-project)
 📊 Marketing case study for a real company, creating a new product concept and market analysis.  
 **Tech Used:** PowerPoint, Market Research  
 
