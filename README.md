@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaHassan&show_icons=true&theme=radical" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHassan&theme=radical" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaHassan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/mostafa-hassan-mostafa" target="_blank">
