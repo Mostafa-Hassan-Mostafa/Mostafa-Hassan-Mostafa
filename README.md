@@ -36,8 +36,12 @@
 - **[Corona Marketing Project](#)**  
   🏭 Created a full market study for **Corona Company** and proposed a new ice cream product line (**Corono**) with pricing strategy, target segments, and marketing plan.
 
-- **[Casio Calculator](#)**  
-  🖩 Developed a functional Casio-style calculator in Python, simulating standard calculator operations with a simple and user-friendly interface.
+- **[Casio Calculator](https://github.com/MostafaHassan/Casio-Calculator)**  
+  🖩 A simple calculator in Python that performs +, -, *, /, and power operations.
+
+- **[Coffee Shop Ordering System](https://github.com/MostafaHassan/Coffee-Shop)**  
+  ☕ A simple Python-based coffee shop ordering system that allows users to select drinks from a menu, specify quantities, and automatically generates a detailed receipt with prices, totals, and a thank-you message.
+
 
 ---
 
