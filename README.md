@@ -32,15 +32,66 @@
 
 ---
 
-## 📂 Featured Projects
-- **[Corona Marketing Project](#)**  
-  🏭 Created a full market study for **Corona Company** and proposed a new ice cream product line (**Corono**) with pricing strategy, target segments, and marketing plan.
+## 🚀 Featured Projects
 
-- **[Casio Calculator](#)**  
-  🖩 A simple calculator in Python that performs +, -, *, /, and power operations.
+### 1. [Corona Marketing Project](https://github.com/YOUR_USERNAME/Corona-Marketing)
+📊 Marketing case study for a real company, creating a new product concept and market analysis.  
+**Tech Used:** PowerPoint, Market Research  
 
-- **[Coffee Shop Ordering System](#)**  
-  ☕ A simple Python-based coffee shop ordering system that allows users to select drinks from a menu, specify quantities, and automatically generates a detailed receipt with prices, totals, and a thank-you message.
+---
+
+### 2. [Casio Calculator](https://github.com/YOUR_USERNAME/Casio-Calculator)
+🧮 Simple Python calculator supporting addition, subtraction, multiplication, division, and power operations.  
+**Tech Used:** Python  
+
+---
+
+### 3. [Coffee Shop](https://github.com/YOUR_USERNAME/Coffee-Shop)
+☕ Python program simulating a coffee shop menu selection and order process.  
+**Tech Used:** Python
+
+---
+
+### 4. [Restaurant Menu](https://github.com/YOUR_USERNAME/Restaurant-Menu)
+🍔 Restaurant ordering system in Python with tax and delivery fee calculation.  
+**Tech Used:** Python
+
+---
+
+### 5. [Hangman Game](https://github.com/YOUR_USERNAME/Hangman)
+🎯 Classic hangman game using Python, guessing country names with ASCII art display.  
+**Tech Used:** Python  
+
+---
+
+### 6. [Number Guessing Game](https://github.com/YOUR_USERNAME/Number-Guessing-Game)
+🎲 Guess a random number between 1 and 100 with hints for too high or too low guesses.  
+**Tech Used:** Python
+
+---
+
+### 7. [Palestine Flag Drawing](https://github.com/YOUR_USERNAME/Palestine-Flag-Drawing)
+🇵🇸 Draws the Palestinian flag using Python's Turtle graphics, with a "#Free_Palestine" message.  
+**Tech Used:** Python Turtle  
+
+---
+
+### 8. [Password Generator](https://github.com/YOUR_USERNAME/Password-Generator)
+🔑 Generates secure passwords with a mix of lowercase, uppercase, numbers, and symbols.  
+**Tech Used:** Python
+
+---
+
+### 9. [Rock Paper Scissors](https://github.com/YOUR_USERNAME/Rock-Paper-Scissors)
+✊✋✌ Play the classic Rock-Paper-Scissors game against the computer.  
+**Tech Used:** Python
+
+---
+
+### 10. [WhatsApp GUI](https://github.com/YOUR_USERNAME/WhatsApp-GUI)
+💬 A simple WhatsApp-like GUI application with welcome screen, contact list, and chat window.  
+**Tech Used:** Python Tkinter, Pillow  
+
 
 
 ---
