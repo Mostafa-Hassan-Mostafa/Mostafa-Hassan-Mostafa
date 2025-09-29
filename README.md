@@ -104,7 +104,7 @@
 <a href="mailto:mostafa.hassan.mostafa.604@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.canva.com/design/DAGu9Cj_-80/RvvMUME1N_nEj6kh1nH5ew/edit?utm_content=DAGu9Cj_-80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<a href="https://www.canva.com/design/DAGu9Cj_-80/RvvMUME1N_nEj6kh1nH5ew/view?utm_content=DAGu9Cj_-80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
