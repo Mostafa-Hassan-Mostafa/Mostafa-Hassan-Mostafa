@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">Hi there 👋, I'm Mostafa Hassan</h1>
+<h1 align="center">Hi there 👋, I'm Mostafa Hassan El-Sonbaty</h1>
 <h3 align="center">🎯 Aspiring Business & Data Analyst | ERP Enthusiast | BIS Student</h3>
 
 <!-- Typing Animation -->
