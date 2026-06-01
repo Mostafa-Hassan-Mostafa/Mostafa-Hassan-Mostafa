@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 4th Year **Business Information Systems** student @ Helwan University (Graduating Jun 2027)
+- 🎓 4th Year **Business Information Systems** student @ Capital (Helwan) University (Graduating Jun 2027)
 - 💼 Interned at **ADIB Egypt** (Business Planning & Analysis), **PetroShahd**, and **PetroGulf Misr**
 - 📊 Building dashboards with **Power BI** and **Excel** | Writing queries in **SQL** | Automating with **Python**
 - 🗄️ Hands-on with **Odoo ERP** (Sales, Purchase, Inventory, Accounting modules)
