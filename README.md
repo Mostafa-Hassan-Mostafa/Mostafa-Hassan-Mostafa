@@ -41,6 +41,7 @@
 | Public Relations Intern | PetroGulf Misr | Aug 2025 |
 | Business Planning & Analysis Intern | ADIB Egypt | Jul 2025 |
 | IT Intern | PetroGulf Misr | Jul 2024 |
+| E-Learning Member | Spread Your Skills (SYS) | Nov 2023 to Mar 2024 |
 
 ---
 
