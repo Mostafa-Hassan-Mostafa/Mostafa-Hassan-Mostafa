@@ -1,102 +1,89 @@
-<!-- Animated Header -->
+<!-- Header -->
 <h1 align="center">Hi there 👋, I'm Mostafa Hassan El-Sonbaty</h1>
-<h3 align="center">🎯 Aspiring Business & Data Analyst | ERP Enthusiast | BIS Student</h3>
+<h3 align="center">🎯 Business & Data Analyst | ERP | SQL · Power BI · Python</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Data+Analysis+Learner;ERP+Systems+Enthusiast;Business+Analysis+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Business+%26+Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;ERP+Systems+%7C+Odoo;Banking+%26+Petroleum+Sector+Experience" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year **Business Information Systems** student @ Helwan University  
-- 📊 Learning **Business Analysis**, **Data Analysis**, and **ERP Systems**  
-- 🐍 Python developer (PyCharm) | Marketing Project Experience  
-- 💡 Passionate about transforming data into insights and building efficient systems  
+
+- 🎓 4th Year **Business Information Systems** student @ Helwan University (Graduating Jun 2027)
+- 💼 Interned at **ADIB Egypt** (Business Planning & Analysis), **PetroShahd**, and **PetroGulf Misr**
+- 📊 Building dashboards with **Power BI** and **Excel** | Writing queries in **SQL** | Automating with **Python**
+- 🗄️ Hands-on with **Odoo ERP** (Sales, Purchase, Inventory, Accounting modules)
 - 📫 Reach me at **mostafa.hassan.mostafa.604@gmail.com**
 
 ---
 
 ## 🛠 Skills & Tools
+
 <p align="center">
-<!-- Programming -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<!-- Data & BI -->
-<img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<!-- ERP -->
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
+
+---
+
+## 💼 Experience Highlights
+
+| Role | Company | Period |
+|------|---------|--------|
+| Back-end Dev Member | Code to Commerce (C2C) | Nov 2025 – Jun 2026 |
+| IT Intern | PetroShahd Petroleum | Aug – Sep 2025 |
+| Business Planning & Analysis Intern | ADIB Egypt | Jul 2025 |
+| Public Relations Intern | PetroGulf Misr | Aug 2025 |
+| IT Intern | PetroGulf Misr | Jul 2024 |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [Corona Marketing Project](https://github.com/Mostafa-Hassan-Mostafa/corona-marketing-project)
-📊 Marketing case study for a real company, creating a new product concept and market analysis.  
-**Tech Used:** PowerPoint, Market Research  
+### 1. [WhatsApp GUI Clone](https://github.com/Mostafa-Hassan-Mostafa/WhatsApp-GUI)
+💬 Full desktop chat interface built with Python Tkinter & Pillow — contact management, message simulation, modular GUI components.  
+**Tech:** Python · Tkinter · Pillow
+
+### 2. [Corona Ice Cream – Marketing Strategy](https://github.com/Mostafa-Hassan-Mostafa/corona-marketing-project)
+📊 Go-to-market strategy for a new product line: market research, competitive analysis, pricing, multi-channel promotions, and KPI framework.  
+**Tech:** PowerPoint · Market Research
+
+### 3. [Hangman Game](https://github.com/Mostafa-Hassan-Mostafa/Hangman-Game)
+🎯 Classic hangman with Arab country names, ASCII art, and full game-loop logic.  
+**Tech:** Python
+
+<details>
+<summary>More projects ▾</summary>
+
+- [Rock Paper Scissors](https://github.com/Mostafa-Hassan-Mostafa/Rock-Paper-Scissors) — CLI game vs. computer
+- [Password Generator](https://github.com/Mostafa-Hassan-Mostafa/Password-Generator) — Secure mixed-character passwords
+- [Restaurant Menu](https://github.com/Mostafa-Hassan-Mostafa/Restaurant-Menu) — Ordering system with tax & delivery fee
+- [Coffee Shop](https://github.com/Mostafa-Hassan-Mostafa/Coffee-Shop) — Menu selection & receipt generator
+- [Casio Calculator](https://github.com/Mostafa-Hassan-Mostafa/Casio-Calculator) — Basic operations in Python
+- [Number Guessing Game](https://github.com/Mostafa-Hassan-Mostafa/Number-Guessing-Game) — 1–100 guess with hints
+- [Palestine Flag Drawing](https://github.com/Mostafa-Hassan-Mostafa/Palestine-Flag-Drawing) — Turtle graphics 🇵🇸
+
+</details>
 
 ---
 
-### 2. [Casio Calculator](https://github.com/Mostafa-Hassan-Mostafa/Casio-Calculator)
-🧮 Simple Python calculator supporting addition, subtraction, multiplication, division, and power operations.  
-**Tech Used:** Python  
+## 📈 GitHub Stats
 
----
-
-### 3. [Coffee Shop](https://github.com/Mostafa-Hassan-Mostafa/Coffee-Shop)
-☕ Python program simulating a coffee shop menu selection and order process.  
-**Tech Used:** Python
-
----
-
-### 4. [Restaurant Menu](https://github.com/Mostafa-Hassan-Mostafa/Restaurant-Menu)
-🍔 Restaurant ordering system in Python with tax and delivery fee calculation.  
-**Tech Used:** Python
-
----
-
-### 5. [Hangman Game](https://github.com/Mostafa-Hassan-Mostafa/Hangman)
-🎯 Classic hangman game using Python, guessing country names with ASCII art display.  
-**Tech Used:** Python  
-
----
-
-### 6. [Number Guessing Game](https://github.com/Mostafa-Hassan-Mostafa/Number-Guessing-Game)
-🎲 Guess a random number between 1 and 100 with hints for too high or too low guesses.  
-**Tech Used:** Python
-
----
-
-### 7. [Palestine Flag Drawing](https://github.com/Mostafa-Hassan-Mostafa/Palestine-Flag-Drawing)
-🇵🇸 Draws the Palestinian flag using Python's Turtle graphics, with a "#Free_Palestine" message.  
-**Tech Used:** Python Turtle  
-
----
-
-### 8. [Password Generator](https://github.com/Mostafa-Hassan-Mostafa/Password-Generator)
-🔑 Generates secure passwords with a mix of lowercase, uppercase, numbers, and symbols.  
-**Tech Used:** Python
-
----
-
-### 9. [Rock Paper Scissors](https://github.com/Mostafa-Hassan-Mostafa/Rock-Paper-Scissors)
-✊✋✌ Play the classic Rock-Paper-Scissors game against the computer.  
-**Tech Used:** Python
-
----
-
-### 10. [WhatsApp GUI](https://github.com/Mostafa-Hassan-Mostafa/WhatsApp-GUI)
-💬 A simple WhatsApp-like GUI application with welcome screen, contact list, and chat window.  
-**Tech Used:** Python Tkinter, Pillow  
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Hassan-Mostafa&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Hassan-Mostafa&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/mostafa-hassan-mostafa" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
