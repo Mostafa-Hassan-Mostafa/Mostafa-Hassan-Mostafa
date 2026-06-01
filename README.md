@@ -77,8 +77,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Hassan-Mostafa&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Hassan-Mostafa&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Hassan-Mostafa&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Hassan-Mostafa&color=blue&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
