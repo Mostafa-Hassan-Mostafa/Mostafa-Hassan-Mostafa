@@ -37,9 +37,9 @@
 | Role | Company | Period |
 |------|---------|--------|
 | Back-end Dev Member | Code to Commerce (C2C) | Nov 2025 – Jun 2026 |
-| IT Intern | PetroShahd Petroleum | Aug – Sep 2025 |
-| Business Planning & Analysis Intern | ADIB Egypt | Jul 2025 |
+| IT Intern | PetroShahd Petroleum | Sep 2025 |
 | Public Relations Intern | PetroGulf Misr | Aug 2025 |
+| Business Planning & Analysis Intern | ADIB Egypt | Jul 2025 |
 | IT Intern | PetroGulf Misr | Jul 2024 |
 
 ---
