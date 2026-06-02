@@ -47,21 +47,22 @@
 
 ## 🚀 Featured Projects
 
-### 1. [WhatsApp GUI Clone](https://github.com/Mostafa-Hassan-Mostafa/WhatsApp-GUI)
+### 1. [E-Commerce Sales Performance Dashboard](https://github.com/Mostafa-Hassan-Mostafa/E-Commerce-Sales-Analysis-PowerBI)
+📈 End-to-end data analysis of a Superstore dataset. Cleaned and structured raw data in Excel, then built an interactive dashboard with DAX and Power BI to extract actionable insights like revenue trends and top-performing regions.  
+**Tech:** Power BI · DAX · Excel · Data Cleaning
+
+### 2. [WhatsApp GUI Clone](https://github.com/Mostafa-Hassan-Mostafa/WhatsApp-GUI)
 💬 Full desktop chat interface built with Python Tkinter & Pillow — contact management, message simulation, modular GUI components.  
 **Tech:** Python · Tkinter · Pillow
 
-### 2. [Corona Ice Cream – Marketing Strategy](https://github.com/Mostafa-Hassan-Mostafa/corona-marketing-project)
+### 3. [Corona Ice Cream – Marketing Strategy](https://github.com/Mostafa-Hassan-Mostafa/corona-marketing-project)
 📊 Go-to-market strategy for a new product line: market research, competitive analysis, pricing, multi-channel promotions, and KPI framework.  
 **Tech:** PowerPoint · Market Research
-
-### 3. [Hangman Game](https://github.com/Mostafa-Hassan-Mostafa/Hangman-Game)
-🎯 Classic hangman with Arab country names, ASCII art, and full game-loop logic.  
-**Tech:** Python
 
 <details>
 <summary>More projects ▾</summary>
 
+- [Hangman Game](https://github.com/Mostafa-Hassan-Mostafa/Hangman-Game) — Classic hangman with Arab country names & ASCII art
 - [Rock Paper Scissors](https://github.com/Mostafa-Hassan-Mostafa/Rock-Paper-Scissors) — CLI game vs. computer
 - [Password Generator](https://github.com/Mostafa-Hassan-Mostafa/Password-Generator) — Secure mixed-character passwords
 - [Restaurant Menu](https://github.com/Mostafa-Hassan-Mostafa/Restaurant-Menu) — Ordering system with tax & delivery fee
