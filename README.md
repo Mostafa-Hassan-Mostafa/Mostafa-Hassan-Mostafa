@@ -47,7 +47,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. [E-Commerce Sales Performance Dashboard](https://github.com/Mostafa-Hassan-Mostafa/E-Commerce-Sales-Analysis-PowerBI)
+### 1. [E-Commerce Sales Performance Dashboard](https://github.com/Mostafa-Hassan-Mostafa/E-Commerce-Sales-Analysis)
 📈 End-to-end data analysis of a Superstore dataset. Cleaned and structured raw data in Excel, then built an interactive dashboard with DAX and Power BI to extract actionable insights like revenue trends and top-performing regions.  
 **Tech:** Power BI · DAX · Excel · Data Cleaning
 
