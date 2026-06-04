@@ -78,7 +78,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mostafa-Hassan-Mostafa&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Hassan-Mostafa&theme=tokyonight&show_icons=true" height="160"/>
 </p>
 
 ---
