@@ -75,14 +75,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Hassan-Mostafa&theme=tokyonight&show_icons=true" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
