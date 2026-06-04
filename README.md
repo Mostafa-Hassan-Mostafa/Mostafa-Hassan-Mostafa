@@ -69,7 +69,7 @@
 - [Coffee Shop](https://github.com/Mostafa-Hassan-Mostafa/Coffee-Shop) — Menu selection & receipt generator
 - [Casio Calculator](https://github.com/Mostafa-Hassan-Mostafa/Casio-Calculator) — Basic operations in Python
 - [Number Guessing Game](https://github.com/Mostafa-Hassan-Mostafa/Number-Guessing-Game) — 1–100 guess with hints
-- [Palestine Flag Drawing]((https://github.com/Mostafa-Hassan-Mostafa/Free-Palestine) — Turtle graphics 🇵🇸
+- [Palestine Flag Drawing](https://github.com/Mostafa-Hassan-Mostafa/Free-Palestine) — Turtle graphics 🇵🇸
 
 </details>
 
